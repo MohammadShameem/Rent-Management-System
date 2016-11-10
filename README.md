@@ -1,2 +1,2 @@
 # wedprojectOne
-# # I upload wedproject.It is a sample wesite made with php ,bootstrap,mysql 
+# # I uploaded a simple project for rent mangement.It is a sample website made with HTML , CSS , BOOTSTRAP , JAVASCRIPT , JQUERY , PHP , MYSQL. 
